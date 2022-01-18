@@ -1,5 +1,10 @@
-const Discord = require('discord');
+const Discord = require('discord.js')
 const client = new Discord.Client()
+const play = require('discordjs-ytdl')
+const { readdirSync } = require('fs');
+const db = require('db');
+const fs = require('fs');
+const { join } = require('path');
 
 
 const prefix = "PREFİX"//////PREFİXİNİZ/////
