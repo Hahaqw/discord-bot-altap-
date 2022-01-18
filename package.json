@@ -1,0 +1,14 @@
+{
+  "name": "DİSCORD HAZIR BOT",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js" ///////KONSOLA YAZCAĞIMIZ MESAJ
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
