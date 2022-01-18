@@ -80,4 +80,4 @@ client.on('message', msg => {
       const role = member.guild.roles.cache.find(role => role.name === 'üye') //////////Üye kısmına rol neyse verilcek rol o yazılcak/////////
       member.roles.add(role)
   });
-
+///////////////////////PACKAGE JSON TEST KISMINDA KODU UNUTMAYINN////////////
