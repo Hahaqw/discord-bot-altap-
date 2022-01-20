@@ -6,6 +6,8 @@ const db = require('db');
 const fs = require('fs');
 const { join } = require('path');
 
+/////////////YENİLENMİŞTİR/////////
+
 
 const prefix = "PREFİX"//////PREFİXİNİZ/////
 
